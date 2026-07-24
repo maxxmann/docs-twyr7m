@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-cn9f76.smartstoragespaces.co.uk/sitemap.xml
